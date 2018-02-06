@@ -1,0 +1,2550 @@
+Unexpected character: ï
+1 26 0 0
+a z  
+97
+27
+* step: 1 loss: 3.2928
+decoder_inputs: 
+ [[0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]] (27, 10)
+P es  [0 0 0 0 0 0 0 0 0 0] (10,)
+the (reversed: eht) -> [  ] (KO)
+quick (reversed: kciuq) -> [  ] (KO)
+brown (reversed: nworb) -> [  ] (KO)
+fox (reversed: xof) -> [  ] (KO)
+jumps (reversed: spmuj) -> [  ] (KO)
+over (reversed: revo) -> [  ] (KO)
+the (reversed: eht) -> [  ] (KO)
+lazy (reversed: yzal) -> [  ] (KO)
+dog (reversed: god) -> [  ] (KO)
+is (reversed: si) -> [  ] (KO)
+decoder_inputs: 
+ [[0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]] (27, 10)
+P es  [0 0 0 0 0 0 0 0 0 0] (10,)
+an (reversed: na) -> [  ] (KO)
+english (reversed: hsilgne) -> [  ] (KO)
+sentence (reversed: ecnetnes) -> [  ] (KO)
+that (reversed: taht) -> [  ] (KO)
+can (reversed: nac) -> [  ] (KO)
+be (reversed: eb) -> [  ] (KO)
+translated (reversed: detalsnart) -> [  ] (KO)
+to (reversed: ot) -> [  ] (KO)
+the (reversed: eht) -> [  ] (KO)
+following (reversed: gniwollof) -> [  ] (KO)
+decoder_inputs: 
+ [[0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]] (27, 10)
+P es  [0 0 0 0 0 0 0 0 0 0] (10,)
+french (reversed: hcnerf) -> [  ] (KO)
+one (reversed: eno) -> [  ] (KO)
+le (reversed: el) -> [  ] (KO)
+vif (reversed: fiv) -> [  ] (KO)
+renard (reversed: draner) -> [  ] (KO)
+brun (reversed: nurb) -> [  ] (KO)
+saute (reversed: etuas) -> [  ] (KO)
+par (reversed: rap) -> [  ] (KO)
+dessus (reversed: sussed) -> [  ] (KO)
+le (reversed: el) -> [  ] (KO)
+decoder_inputs: 
+ [[0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0]] (27, 10)
+P es  [0 0 0 0 0 0 0 0 0 0] (10,)
+chien (reversed: neihc) -> [  ] (KO)
+paresseux (reversed: xuesserap) -> [  ] (KO)
+here (reversed: ereh) -> [  ] (KO)
+is (reversed: si) -> [  ] (KO)
+an (reversed: na) -> [  ] (KO)
+extremely (reversed: ylemertxe) -> [  ] (KO)
+long (reversed: gnol) -> [  ] (KO)
+french (reversed: hcnerf) -> [  ] (KO)
+word (reversed: drow) -> [  ] (KO)
+anticonstitutionnellement (reversed: tnemellennoitutitsnocitna) -> [  ] (KO)
+* correct: 0/40 -> 0.0%
+
+* step: 1001 loss: 1.94823
+decoder_inputs: 
+ [[ 5 11 14 24 19 18  5 25  7 19]
+ [ 8 11 14 24 13 18  8 25  7  9]
+ [ 0  9 15  6 13 15  0 25  0  0]
+ [ 0  9 15  0 13 15  0  0  0  0]
+ [ 0  0 18  0 13  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 5 11 14 24 19 18  5 25  7 19] (10,)
+the (reversed: eht) -> [ eh ] (KO)
+quick (reversed: kciuq) -> [ kkii ] (KO)
+brown (reversed: nworb) -> [ nnoor ] (KO)
+fox (reversed: xof) -> [ xxf ] (KO)
+jumps (reversed: spmuj) -> [ smmmm ] (KO)
+over (reversed: revo) -> [ rroo ] (KO)
+the (reversed: eht) -> [ eh ] (KO)
+lazy (reversed: yzal) -> [ yyy ] (KO)
+dog (reversed: god) -> [ gg ] (KO)
+is (reversed: si) -> [ si ] (OK)
+decoder_inputs: 
+ [[14  8  5 20 14  5  4 15  5  7]
+ [ 0  8  5 20  3  2  4 15  8  7]
+ [ 0  9 14 20  0  0 20  0  0  7]
+ [ 0  9 14 20  0  0  1  0  0 15]
+ [ 0 15 14  0  0  0  1  0  0 15]
+ [ 0 14 14  0  0  0  1  0  0 15]
+ [ 0  0  5  0  0  0  1  0  0 15]
+ [ 0  0  0  0  0  0 18  0  0 12]
+ [ 0  0  0  0  0  0 18  0  0 12]
+ [ 0  0  0  0  0  0 18  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14  8  5 20 14  5  4 15  5  7] (10,)
+an (reversed: na) -> [ n ] (KO)
+english (reversed: hsilgne) -> [ hhiion ] (KO)
+sentence (reversed: ecnetnes) -> [ eennnne ] (KO)
+that (reversed: taht) -> [ tttt ] (KO)
+can (reversed: nac) -> [ nc ] (KO)
+be (reversed: eb) -> [ eb ] (OK)
+translated (reversed: detalsnart) -> [ ddtaaaarrr ] (KO)
+to (reversed: ot) -> [ oo ] (KO)
+the (reversed: eht) -> [ eh ] (KO)
+following (reversed: gniwollof) -> [ gggooooll ] (KO)
+decoder_inputs: 
+ [[ 8  5  5  6  4 14  5 18 19  5]
+ [ 8  5 12  6 18 18  5  1 19 12]
+ [ 3 15  0  0 18  2 20  0 19  0]
+ [18 15  0  0 18  2 20  0 19  0]
+ [18  0  0  0 18  0  0  0 19  0]
+ [18  0  0  0 18  0  0  0 19  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 8  5  5  6  4 14  5 18 19  5] (10,)
+french (reversed: hcnerf) -> [ hhcrrr ] (KO)
+one (reversed: eno) -> [ eeoo ] (KO)
+le (reversed: el) -> [ el ] (OK)
+vif (reversed: fiv) -> [ ff ] (KO)
+renard (reversed: draner) -> [ drrrrr ] (KO)
+brun (reversed: nurb) -> [ nrbb ] (KO)
+saute (reversed: etuas) -> [ eett ] (KO)
+par (reversed: rap) -> [ ra ] (KO)
+dessus (reversed: sussed) -> [ ssssss ] (KO)
+le (reversed: el) -> [ el ] (OK)
+decoder_inputs: 
+ [[14 24  5 19 14 25  7  8  4 14]
+ [14 24  5  9  0 25  7  8 18 14]
+ [ 3  5  5  0  0  5 15  3 23 14]
+ [ 3  5 18  0  0  5 15 18 23 14]
+ [ 3  5  0  0  0  5 15 18  0 14]
+ [ 0  5  0  0  0  5  0 18  0 14]
+ [ 0  5  0  0  0  5  0  0  0 14]
+ [ 0 18  0  0  0  5  0  0  0 14]
+ [ 0 18  0  0  0  5  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14 24  5 19 14 25  7  8  4 14] (10,)
+chien (reversed: neihc) -> [ nnccc ] (KO)
+paresseux (reversed: xuesserap) -> [ xxeeeeerr ] (KO)
+here (reversed: ereh) -> [ eeer ] (KO)
+is (reversed: si) -> [ si ] (OK)
+an (reversed: na) -> [ n ] (KO)
+extremely (reversed: ylemertxe) -> [ yyeeeeeee ] (KO)
+long (reversed: gnol) -> [ ggooo ] (KO)
+french (reversed: hcnerf) -> [ hhcrrr ] (KO)
+word (reversed: drow) -> [ drww ] (KO)
+anticonstitutionnellement (reversed: tnemellennoitutitsnocitna) -> [ nnnnnnnnnnnnnnnnnntttnnnn ] (KO)
+* correct: 5/40 -> 12.5%
+
+* step: 2001 loss: 0.524433
+decoder_inputs: 
+ [[ 5 11 14 24 19 18  5 25  7 19]
+ [20  3 23 15 16 22 20  1 15  0]
+ [ 0  9 15  0 13 15  0 12  0  0]
+ [ 0 17  2  0 10  0  0  0  0  0]
+ [ 0 17  0  0 10  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 5 11 14 24 19 18  5 25  7 19] (10,)
+the (reversed: eht) -> [ et ] (KO)
+quick (reversed: kciuq) -> [ kciqq ] (KO)
+brown (reversed: nworb) -> [ nwob ] (KO)
+fox (reversed: xof) -> [ xo ] (KO)
+jumps (reversed: spmuj) -> [ spmjj ] (KO)
+over (reversed: revo) -> [ rvo ] (KO)
+the (reversed: eht) -> [ et ] (KO)
+lazy (reversed: yzal) -> [ yal ] (KO)
+dog (reversed: god) -> [ go ] (KO)
+is (reversed: si) -> [ s ] (KO)
+decoder_inputs: 
+ [[14  8  5 20 14  5  4 15  5  7]
+ [ 0 19  3  1  3  0  5  0 20 14]
+ [ 0  9 14 20  0  0 20  0  0  9]
+ [ 0 12  5  0  0  0  1  0  0 23]
+ [ 0 14 20  0  0  0 12  0  0 15]
+ [ 0 14 14  0  0  0 19  0  0 12]
+ [ 0  5  5  0  0  0 14  0  0 15]
+ [ 0  0 19  0  0  0  1  0  0 15]
+ [ 0  0  0  0  0  0 18  0  0  0]
+ [ 0  0  0  0  0  0 20  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14  8  5 20 14  5  4 15  5  7] (10,)
+an (reversed: na) -> [ n ] (KO)
+english (reversed: hsilgne) -> [ hsilnne ] (KO)
+sentence (reversed: ecnetnes) -> [ ecnetnes ] (OK)
+that (reversed: taht) -> [ tat ] (KO)
+can (reversed: nac) -> [ nc ] (KO)
+be (reversed: eb) -> [ e ] (KO)
+translated (reversed: detalsnart) -> [ detalsnart ] (OK)
+to (reversed: ot) -> [ o ] (KO)
+the (reversed: eht) -> [ et ] (KO)
+following (reversed: gniwollof) -> [ gniwoloo ] (KO)
+decoder_inputs: 
+ [[ 8  5  5  6  4 14  5 18 19  5]
+ [ 3 15  0 22  4 18 20 16 19  0]
+ [14  0  0  0  1  2  1  0 19  0]
+ [ 5  0  0  0 14  0  1  0 19  0]
+ [ 6  0  0  0  5  0 19  0  5  0]
+ [ 0  0  0  0  0  0  0  0  4  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 8  5  5  6  4 14  5 18 19  5] (10,)
+french (reversed: hcnerf) -> [ hcnef ] (KO)
+one (reversed: eno) -> [ eo ] (KO)
+le (reversed: el) -> [ e ] (KO)
+vif (reversed: fiv) -> [ fv ] (KO)
+renard (reversed: draner) -> [ ddane ] (KO)
+brun (reversed: nurb) -> [ nrb ] (KO)
+saute (reversed: etuas) -> [ etaas ] (KO)
+par (reversed: rap) -> [ rp ] (KO)
+dessus (reversed: sussed) -> [ ssssed ] (KO)
+le (reversed: el) -> [ e ] (KO)
+decoder_inputs: 
+ [[14 24  5 19 14 25  7  8  4 14]
+ [ 5 21 18  0  0 12 14  3 18 14]
+ [ 9  5  8  0  0  5 12 14 23 14]
+ [ 3 19  0  0  0 13 12  5 23 14]
+ [ 3 19  0  0  0  5  0  6  0 14]
+ [ 0  5  0  0  0 18  0  0  0 14]
+ [ 0  1  0  0  0 24  0  0  0 14]
+ [ 0  1  0  0  0 24  0  0  0 14]
+ [ 0  0  0  0  0  5  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 19]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 15]
+ [ 0  0  0  0  0  0  0  0  0  3]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0  1]
+ [ 0  0  0  0  0  0  0  0  0  1]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14 24  5 19 14 25  7  8  4 14] (10,)
+chien (reversed: neihc) -> [ neicc ] (KO)
+paresseux (reversed: xuesserap) -> [ xuesseaa ] (KO)
+here (reversed: ereh) -> [ erh ] (KO)
+is (reversed: si) -> [ s ] (KO)
+an (reversed: na) -> [ n ] (KO)
+extremely (reversed: ylemertxe) -> [ ylemerxxe ] (KO)
+long (reversed: gnol) -> [ gnll ] (KO)
+french (reversed: hcnerf) -> [ hcnef ] (KO)
+word (reversed: drow) -> [ drww ] (KO)
+anticonstitutionnellement (reversed: tnemellennoitutitsnocitna) -> [ nnnnnnnnnnnttttitsnocitaa ] (KO)
+* correct: 2/40 -> 5.0%
+
+* step: 3001 loss: 0.293869
+decoder_inputs: 
+ [[ 5 11 14 24 19 18  5 25  7 19]
+ [ 8  3 23 15 16  5  8 26 15  9]
+ [20  9 15  6 13 22 20  1  4  0]
+ [ 0 21 18  0 21 15  0 12  0  0]
+ [ 0 17  2  0 10  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 5 11 14 24 19 18  5 25  7 19] (10,)
+the (reversed: eht) -> [ eht ] (OK)
+quick (reversed: kciuq) -> [ kciuq ] (OK)
+brown (reversed: nworb) -> [ nworb ] (OK)
+fox (reversed: xof) -> [ xof ] (OK)
+jumps (reversed: spmuj) -> [ spmuj ] (OK)
+over (reversed: revo) -> [ revo ] (OK)
+the (reversed: eht) -> [ eht ] (OK)
+lazy (reversed: yzal) -> [ yzal ] (OK)
+dog (reversed: god) -> [ god ] (OK)
+is (reversed: si) -> [ si ] (OK)
+decoder_inputs: 
+ [[14  8  5 20 14  5  4 15  5  7]
+ [ 1 19  3  1  1  2  5 20  8 14]
+ [ 0  9 14  8  3  0 20  0 20  9]
+ [ 0 12  5 20  0  0  1  0  0 23]
+ [ 0  7 20  0  0  0 12  0  0 15]
+ [ 0 14 14  0  0  0 19  0  0 12]
+ [ 0  5  5  0  0  0 14  0  0 12]
+ [ 0  0 19  0  0  0  1  0  0 15]
+ [ 0  0  0  0  0  0 18  0  0  6]
+ [ 0  0  0  0  0  0 20  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14  8  5 20 14  5  4 15  5  7] (10,)
+an (reversed: na) -> [ na ] (OK)
+english (reversed: hsilgne) -> [ hsilgne ] (OK)
+sentence (reversed: ecnetnes) -> [ ecnetnes ] (OK)
+that (reversed: taht) -> [ taht ] (OK)
+can (reversed: nac) -> [ nac ] (OK)
+be (reversed: eb) -> [ eb ] (OK)
+translated (reversed: detalsnart) -> [ detalsnart ] (OK)
+to (reversed: ot) -> [ ot ] (OK)
+the (reversed: eht) -> [ eht ] (OK)
+following (reversed: gniwollof) -> [ gniwollof ] (OK)
+decoder_inputs: 
+ [[ 8  5  5  6  4 14  5 18 19  5]
+ [ 3 14  5  9 18 21 20  1 21  5]
+ [14 15  0 22  1 18 21 16 19  0]
+ [ 5  0  0  0 14  2  1  0 19  0]
+ [18  0  0  0  5  0 19  0  5  0]
+ [ 6  0  0  0 18  0  0  0  4  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 8  5  5  6  4 14  5 18 19  5] (10,)
+french (reversed: hcnerf) -> [ hcnerf ] (OK)
+one (reversed: eno) -> [ eno ] (OK)
+le (reversed: el) -> [ ee ] (KO)
+vif (reversed: fiv) -> [ fiv ] (OK)
+renard (reversed: draner) -> [ draner ] (OK)
+brun (reversed: nurb) -> [ nurb ] (OK)
+saute (reversed: etuas) -> [ etuas ] (OK)
+par (reversed: rap) -> [ rap ] (OK)
+dessus (reversed: sussed) -> [ sussed ] (OK)
+le (reversed: el) -> [ ee ] (KO)
+decoder_inputs: 
+ [[14 24  5 19 14 25  7  8  4 14]
+ [ 5 21 18  9  1 12 14  3 18 14]
+ [ 9  5  5  0  0  5 15 14 15 14]
+ [ 8 19  8  0  0 13 12  5 23 14]
+ [ 3 19  0  0  0  5  0 18  0 14]
+ [ 0  5  0  0  0 18  0  6  0 14]
+ [ 0 18  0  0  0 20  0  0  0 14]
+ [ 0  1  0  0  0 24  0  0  0 14]
+ [ 0 16  0  0  0  5  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 15]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 21]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 19]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 15]
+ [ 0  0  0  0  0  0  0  0  0  3]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0  1]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14 24  5 19 14 25  7  8  4 14] (10,)
+chien (reversed: neihc) -> [ neihc ] (OK)
+paresseux (reversed: xuesserap) -> [ xuesserap ] (OK)
+here (reversed: ereh) -> [ ereh ] (OK)
+is (reversed: si) -> [ si ] (OK)
+an (reversed: na) -> [ na ] (OK)
+extremely (reversed: ylemertxe) -> [ ylemertxe ] (OK)
+long (reversed: gnol) -> [ gnol ] (OK)
+french (reversed: hcnerf) -> [ hcnerf ] (OK)
+word (reversed: drow) -> [ drow ] (OK)
+anticonstitutionnellement (reversed: tnemellennoitutitsnocitna) -> [ nnnnnnnnnnoitutitsnocitna ] (KO)
+* correct: 37/40 -> 92.5%
+
+* step: 4001 loss: 0.98556
+decoder_inputs: 
+ [[ 5 11 14 24 19 18  5 25  7 19]
+ [ 8  9 15 15 16  5  8 26 15  9]
+ [20  9 18  6 13 22 20  1  4  0]
+ [ 0 21  2  0 21  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 5 11 14 24 19 18  5 25  7 19] (10,)
+the (reversed: eht) -> [ eht ] (OK)
+quick (reversed: kciuq) -> [ kiiu ] (KO)
+brown (reversed: nworb) -> [ norb ] (KO)
+fox (reversed: xof) -> [ xof ] (OK)
+jumps (reversed: spmuj) -> [ spmu ] (KO)
+over (reversed: revo) -> [ rev ] (KO)
+the (reversed: eht) -> [ eht ] (OK)
+lazy (reversed: yzal) -> [ yza ] (KO)
+dog (reversed: god) -> [ god ] (OK)
+is (reversed: si) -> [ si ] (OK)
+decoder_inputs: 
+ [[14  8  5 20 14  5  4 15  5  7]
+ [ 1  9  3  1  1  2  5 20  8 14]
+ [ 0 12  5  8  3  0 20  0 20  9]
+ [ 0 12 20 20  0  0  1  0  0 23]
+ [ 0  7 14  0  0  0 12  0  0 15]
+ [ 0 14 14  0  0  0 14  0  0 12]
+ [ 0  0  5  0  0  0 14  0  0 12]
+ [ 0  0  0  0  0  0  1  0  0  6]
+ [ 0  0  0  0  0  0 20  0  0  6]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14  8  5 20 14  5  4 15  5  7] (10,)
+an (reversed: na) -> [ na ] (OK)
+english (reversed: hsilgne) -> [ hillgn ] (KO)
+sentence (reversed: ecnetnes) -> [ ecetnne ] (KO)
+that (reversed: taht) -> [ taht ] (OK)
+can (reversed: nac) -> [ nac ] (OK)
+be (reversed: eb) -> [ eb ] (OK)
+translated (reversed: detalsnart) -> [ detalnnat ] (KO)
+to (reversed: ot) -> [ ot ] (OK)
+the (reversed: eht) -> [ eht ] (OK)
+following (reversed: gniwollof) -> [ gniwollff ] (KO)
+decoder_inputs: 
+ [[ 8  5  5  6  4 14  5 18 19  5]
+ [14 14 12  9  1 21 21  1 19 12]
+ [14 15  0 22  1 18 21 16 19  0]
+ [ 5  0  0  0 14  0  1  0 19  0]
+ [18  0  0  0  5  0  0  0  5  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 8  5  5  6  4 14  5 18 19  5] (10,)
+french (reversed: hcnerf) -> [ hnner ] (KO)
+one (reversed: eno) -> [ eno ] (OK)
+le (reversed: el) -> [ el ] (OK)
+vif (reversed: fiv) -> [ fiv ] (OK)
+renard (reversed: draner) -> [ daane ] (KO)
+brun (reversed: nurb) -> [ nur ] (KO)
+saute (reversed: etuas) -> [ euua ] (KO)
+par (reversed: rap) -> [ rap ] (OK)
+dessus (reversed: sussed) -> [ sssse ] (KO)
+le (reversed: el) -> [ el ] (OK)
+decoder_inputs: 
+ [[14 24  5 19 14 25  7  8  4 14]
+ [ 9 21 18  9  1 12 14 14 18 14]
+ [ 9  5  5  0  0  5 15 14 15 14]
+ [ 8 19  0  0  0 13  0  5  0 14]
+ [ 0  5  0  0  0  5  0 18  0  5]
+ [ 0  5  0  0  0 18  0  0  0  5]
+ [ 0 18  0  0  0 20  0  0  0  5]
+ [ 0  1  0  0  0 24  0  0  0 12]
+ [ 0 16  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 15]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 19]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 15]
+ [ 0  0  0  0  0  0  0  0  0  3]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0  1]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14 24  5 19 14 25  7  8  4 14] (10,)
+chien (reversed: neihc) -> [ niih ] (KO)
+paresseux (reversed: xuesserap) -> [ xueseerap ] (KO)
+here (reversed: ereh) -> [ ere ] (KO)
+is (reversed: si) -> [ si ] (OK)
+an (reversed: na) -> [ na ] (OK)
+extremely (reversed: ylemertxe) -> [ ylemertx ] (KO)
+long (reversed: gnol) -> [ gno ] (KO)
+french (reversed: hcnerf) -> [ hnner ] (KO)
+word (reversed: drow) -> [ dro ] (KO)
+anticonstitutionnellement (reversed: tnemellennoitutitsnocitna) -> [ nnnneeelnnnoittitsnocitna ] (KO)
+* correct: 18/40 -> 45.0%
+
+* step: 5001 loss: 0.263136
+decoder_inputs: 
+ [[ 5 11 14 24 19 18  5 25  7 19]
+ [ 8  3 23 15 16  5  8 26 15 19]
+ [ 8  9 15  6 13 22  8  1  4  0]
+ [ 0 21 18  0 21 15  0 12  0  0]
+ [ 0 17  2  0 10  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 5 11 14 24 19 18  5 25  7 19] (10,)
+the (reversed: eht) -> [ ehh ] (KO)
+quick (reversed: kciuq) -> [ kciuq ] (OK)
+brown (reversed: nworb) -> [ nworb ] (OK)
+fox (reversed: xof) -> [ xof ] (OK)
+jumps (reversed: spmuj) -> [ spmuj ] (OK)
+over (reversed: revo) -> [ revo ] (OK)
+the (reversed: eht) -> [ ehh ] (KO)
+lazy (reversed: yzal) -> [ yzal ] (OK)
+dog (reversed: god) -> [ god ] (OK)
+is (reversed: si) -> [ ss ] (KO)
+decoder_inputs: 
+ [[14  8  5 20 14  5  4 15  5  7]
+ [ 1 19  3  1  1  2  5 20  8 14]
+ [ 0  9 14  8  3  0 20  0  8  9]
+ [ 0 12  5 20  0  0  1  0  0 23]
+ [ 0  7 20  0  0  0 12  0  0 15]
+ [ 0 14 14  0  0  0 19  0  0 12]
+ [ 0  5 19  0  0  0 14  0  0 12]
+ [ 0  0 19  0  0  0  1  0  0 15]
+ [ 0  0  0  0  0  0 18  0  0  6]
+ [ 0  0  0  0  0  0 20  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14  8  5 20 14  5  4 15  5  7] (10,)
+an (reversed: na) -> [ na ] (OK)
+english (reversed: hsilgne) -> [ hsilgne ] (OK)
+sentence (reversed: ecnetnes) -> [ ecnetnss ] (KO)
+that (reversed: taht) -> [ taht ] (OK)
+can (reversed: nac) -> [ nac ] (OK)
+be (reversed: eb) -> [ eb ] (OK)
+translated (reversed: detalsnart) -> [ detalsnart ] (OK)
+to (reversed: ot) -> [ ot ] (OK)
+the (reversed: eht) -> [ ehh ] (KO)
+following (reversed: gniwollof) -> [ gniwollof ] (OK)
+decoder_inputs: 
+ [[ 8  5  5  6  4 14  5 18 19  5]
+ [ 3 14 12  9 18 21 20  1 21 12]
+ [14 15  0 22  1 18 21 16 19  0]
+ [ 5  0  0  0 14  2  1  0 19  0]
+ [18  0  0  0  5  0 19  0  5  0]
+ [ 6  0  0  0 18  0  0  0  4  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 8  5  5  6  4 14  5 18 19  5] (10,)
+french (reversed: hcnerf) -> [ hcnerf ] (OK)
+one (reversed: eno) -> [ eno ] (OK)
+le (reversed: el) -> [ el ] (OK)
+vif (reversed: fiv) -> [ fiv ] (OK)
+renard (reversed: draner) -> [ draner ] (OK)
+brun (reversed: nurb) -> [ nurb ] (OK)
+saute (reversed: etuas) -> [ etuas ] (OK)
+par (reversed: rap) -> [ rap ] (OK)
+dessus (reversed: sussed) -> [ sussed ] (OK)
+le (reversed: el) -> [ el ] (OK)
+decoder_inputs: 
+ [[14 24  5 19 14 25  7  8  4 20]
+ [ 5 21 18 19  1 12 14  3 18 14]
+ [ 9  5  5  0  0  5 15 14 15  5]
+ [ 8 19  8  0  0 13 12  5 23  5]
+ [ 3 19  0  0  0  5  0 18  0  5]
+ [ 0  5  0  0  0 18  0  6  0  5]
+ [ 0 18  0  0  0 20  0  0  0 14]
+ [ 0  1  0  0  0 24  0  0  0 14]
+ [ 0 16  0  0  0  5  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 15]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 21]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 19]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 15]
+ [ 0  0  0  0  0  0  0  0  0  3]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0  1]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14  1  5 19 14 25  7  8  4 20] (10,)
+chien (reversed: neihc) -> [ neihc ] (OK)
+paresseux (reversed: xuesserap) -> [ xuesserap ] (OK)
+here (reversed: ereh) -> [ ereh ] (OK)
+is (reversed: si) -> [ ss ] (KO)
+an (reversed: na) -> [ na ] (OK)
+extremely (reversed: ylemertxe) -> [ ylemertxe ] (OK)
+long (reversed: gnol) -> [ gnol ] (OK)
+french (reversed: hcnerf) -> [ hcnerf ] (OK)
+word (reversed: drow) -> [ drow ] (OK)
+anticonstitutionnellement (reversed: tnemellennoitutitsnocitna) -> [ tneeeennnnoitutitsnocitna ] (KO)
+* correct: 33/40 -> 82.5%
+
+* step: 6001 loss: 0.107029
+decoder_inputs: 
+ [[ 5 11 14 24 19 18  5 25  7 19]
+ [ 8  3 23 15 16  5  8 26 15 19]
+ [20  9 15  6 13 22 20  1  4  0]
+ [ 0 21 18  0 21 15  0 12  0  0]
+ [ 0 17  2  0 10  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 5 11 14 15 19 18  5 25  7 19] (10,)
+the (reversed: eht) -> [ eht ] (OK)
+quick (reversed: kciuq) -> [ kciuq ] (OK)
+brown (reversed: nworb) -> [ nworb ] (OK)
+fox (reversed: xof) -> [ xof ] (OK)
+jumps (reversed: spmuj) -> [ spmuj ] (OK)
+over (reversed: revo) -> [ revo ] (OK)
+the (reversed: eht) -> [ eht ] (OK)
+lazy (reversed: yzal) -> [ yzal ] (OK)
+dog (reversed: god) -> [ god ] (OK)
+is (reversed: si) -> [ ss ] (KO)
+decoder_inputs: 
+ [[14  8  5 20 14  5  4 15  5  7]
+ [ 1 19  3  1  1  2  5 20  8 14]
+ [ 0  9 14  8  3  0 20  0 20  9]
+ [ 0 12  5 20  0  0  1  0  0 23]
+ [ 0  7 20  0  0  0 12  0  0 15]
+ [ 0 14 14  0  0  0 19  0  0 12]
+ [ 0  5  5  0  0  0 14  0  0 12]
+ [ 0  0 19  0  0  0  1  0  0 15]
+ [ 0  0  0  0  0  0 18  0  0  6]
+ [ 0  0  0  0  0  0 20  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14  8  5 20 14  5  4 15  5  7] (10,)
+an (reversed: na) -> [ na ] (OK)
+english (reversed: hsilgne) -> [ hsilgne ] (OK)
+sentence (reversed: ecnetnes) -> [ ecnetnes ] (OK)
+that (reversed: taht) -> [ taht ] (OK)
+can (reversed: nac) -> [ nac ] (OK)
+be (reversed: eb) -> [ eb ] (OK)
+translated (reversed: detalsnart) -> [ detalsnart ] (OK)
+to (reversed: ot) -> [ ot ] (OK)
+the (reversed: eht) -> [ eht ] (OK)
+following (reversed: gniwollof) -> [ gniwollof ] (OK)
+decoder_inputs: 
+ [[ 8  5  5  6  4 14  5 18 19  5]
+ [ 3 14 12  9 18 21 20  1 21 12]
+ [14 15  0 22  1 18 21 16 19  0]
+ [ 5  0  0  0 14  2  1  0 19  0]
+ [18  0  0  0  5  0 19  0  5  0]
+ [ 6  0  0  0 18  0  0  0  4  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 8  5  5  6  4 14  5 18 19  5] (10,)
+french (reversed: hcnerf) -> [ hcnerf ] (OK)
+one (reversed: eno) -> [ eno ] (OK)
+le (reversed: el) -> [ el ] (OK)
+vif (reversed: fiv) -> [ fiv ] (OK)
+renard (reversed: draner) -> [ draner ] (OK)
+brun (reversed: nurb) -> [ nurb ] (OK)
+saute (reversed: etuas) -> [ etuas ] (OK)
+par (reversed: rap) -> [ rap ] (OK)
+dessus (reversed: sussed) -> [ sussed ] (OK)
+le (reversed: el) -> [ el ] (OK)
+decoder_inputs: 
+ [[14 24  5 19 14 25  7  8  4 20]
+ [ 5 21 18 19  1 12 14  3 18 14]
+ [ 9  5  5  0  0  5 15 14 15 14]
+ [ 8 19  8  0  0 13 12  5 23  5]
+ [ 3 19  0  0  0  5  0 18  0  5]
+ [ 0  5  0  0  0 18  0  6  0 12]
+ [ 0 18  0  0  0 20  0  0  0 14]
+ [ 0  1  0  0  0 24  0  0  0 14]
+ [ 0 16  0  0  0  5  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 15]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 21]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 19]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 15]
+ [ 0  0  0  0  0  0  0  0  0  3]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0  1]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14  1  5 19 14 25  7  8  4 20] (10,)
+chien (reversed: neihc) -> [ neihc ] (OK)
+paresseux (reversed: xuesserap) -> [ xuesserap ] (OK)
+here (reversed: ereh) -> [ ereh ] (OK)
+is (reversed: si) -> [ ss ] (KO)
+an (reversed: na) -> [ na ] (OK)
+extremely (reversed: ylemertxe) -> [ ylemertxe ] (OK)
+long (reversed: gnol) -> [ gnol ] (OK)
+french (reversed: hcnerf) -> [ hcnerf ] (OK)
+word (reversed: drow) -> [ drow ] (OK)
+anticonstitutionnellement (reversed: tnemellennoitutitsnocitna) -> [ tnneelnnnnoitutitsnocitna ] (KO)
+* correct: 37/40 -> 92.5%
+
+* step: 7001 loss: 0.0663188
+decoder_inputs: 
+ [[ 5 11 14 24 19 18  5 25  7 19]
+ [ 8  3 23 15 16  5  8 26 15  9]
+ [20  9 15  6 13 22 20  1  4  0]
+ [ 0 21 18  0 21 15  0 12  0  0]
+ [ 0 17  2  0 10  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 5 11 14 24 19 18  5 25  7 19] (10,)
+the (reversed: eht) -> [ eht ] (OK)
+quick (reversed: kciuq) -> [ kciuq ] (OK)
+brown (reversed: nworb) -> [ nworb ] (OK)
+fox (reversed: xof) -> [ xof ] (OK)
+jumps (reversed: spmuj) -> [ spmuj ] (OK)
+over (reversed: revo) -> [ revo ] (OK)
+the (reversed: eht) -> [ eht ] (OK)
+lazy (reversed: yzal) -> [ yzal ] (OK)
+dog (reversed: god) -> [ god ] (OK)
+is (reversed: si) -> [ si ] (OK)
+decoder_inputs: 
+ [[14  8  5 20 14  5  4 15  5  7]
+ [ 1 19  3  1  1  2  5 20  8 14]
+ [ 0  9 14  8  3  0 20  0 20  9]
+ [ 0 12  5 20  0  0  1  0  0 23]
+ [ 0  7 20  0  0  0 12  0  0 15]
+ [ 0 14 14  0  0  0 19  0  0 12]
+ [ 0  5  5  0  0  0 14  0  0 12]
+ [ 0  0 19  0  0  0  1  0  0 15]
+ [ 0  0  0  0  0  0 18  0  0  6]
+ [ 0  0  0  0  0  0 20  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14  8  5 20 14  5  4 15  5  7] (10,)
+an (reversed: na) -> [ na ] (OK)
+english (reversed: hsilgne) -> [ hsilgne ] (OK)
+sentence (reversed: ecnetnes) -> [ ecnetnes ] (OK)
+that (reversed: taht) -> [ taht ] (OK)
+can (reversed: nac) -> [ nac ] (OK)
+be (reversed: eb) -> [ eb ] (OK)
+translated (reversed: detalsnart) -> [ detalsnart ] (OK)
+to (reversed: ot) -> [ ot ] (OK)
+the (reversed: eht) -> [ eht ] (OK)
+following (reversed: gniwollof) -> [ gniwollof ] (OK)
+decoder_inputs: 
+ [[ 8  5  5  6  4 14  5 18 19  5]
+ [ 3 14 12  9 18 21 20  1 21 12]
+ [14 15  0 22  1 18 21 16 19  0]
+ [ 5  0  0  0 14  2  1  0 19  0]
+ [18  0  0  0  5  0 19  0  5  0]
+ [ 6  0  0  0 18  0  0  0  4  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 8  5  5  6  4 14  5 18 19  5] (10,)
+french (reversed: hcnerf) -> [ hcnerf ] (OK)
+one (reversed: eno) -> [ eno ] (OK)
+le (reversed: el) -> [ el ] (OK)
+vif (reversed: fiv) -> [ fiv ] (OK)
+renard (reversed: draner) -> [ draner ] (OK)
+brun (reversed: nurb) -> [ nurb ] (OK)
+saute (reversed: etuas) -> [ etuas ] (OK)
+par (reversed: rap) -> [ rap ] (OK)
+dessus (reversed: sussed) -> [ sussed ] (OK)
+le (reversed: el) -> [ el ] (OK)
+decoder_inputs: 
+ [[14 24  5 19 14 25  7  8  4 20]
+ [ 5 21 18  9  1 12 14  3 18  5]
+ [ 9  5  5  0  0  5 15 14 15  5]
+ [ 8 19  8  0  0 13 12  5 23  5]
+ [ 3 19  0  0  0  5  0 18  0  5]
+ [ 0  5  0  0  0 18  0  6  0 12]
+ [ 0 18  0  0  0 20  0  0  0 12]
+ [ 0  1  0  0  0 24  0  0  0 14]
+ [ 0 16  0  0  0  5  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 15]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 21]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 19]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 15]
+ [ 0  0  0  0  0  0  0  0  0  3]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0  1]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14 24  5 19 14 25  7  8  4 20] (10,)
+chien (reversed: neihc) -> [ neihc ] (OK)
+paresseux (reversed: xuesserap) -> [ xuesserap ] (OK)
+here (reversed: ereh) -> [ ereh ] (OK)
+is (reversed: si) -> [ si ] (OK)
+an (reversed: na) -> [ na ] (OK)
+extremely (reversed: ylemertxe) -> [ ylemertxe ] (OK)
+long (reversed: gnol) -> [ gnol ] (OK)
+french (reversed: hcnerf) -> [ hcnerf ] (OK)
+word (reversed: drow) -> [ drow ] (OK)
+anticonstitutionnellement (reversed: tnemellennoitutitsnocitna) -> [ teeeellnnnoitutitsnocitna ] (KO)
+* correct: 39/40 -> 97.5%
+
+* step: 8001 loss: 0.169526
+decoder_inputs: 
+ [[ 5 11 14 24 19 18  5 25  7 19]
+ [ 8  3 23 15 16  5  8 26 15  9]
+ [20  9 15  6 13 22 20  1  4  0]
+ [ 0 21 18  0 21 15  0 12  0  0]
+ [ 0 17  2  0 10  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 5 11 14 24 19 18  5 25  7 19] (10,)
+the (reversed: eht) -> [ eht ] (OK)
+quick (reversed: kciuq) -> [ kciuq ] (OK)
+brown (reversed: nworb) -> [ nworb ] (OK)
+fox (reversed: xof) -> [ xof ] (OK)
+jumps (reversed: spmuj) -> [ spmuj ] (OK)
+over (reversed: revo) -> [ revo ] (OK)
+the (reversed: eht) -> [ eht ] (OK)
+lazy (reversed: yzal) -> [ yzal ] (OK)
+dog (reversed: god) -> [ god ] (OK)
+is (reversed: si) -> [ si ] (OK)
+decoder_inputs: 
+ [[14  8  5 20 14  5  4 15  5  7]
+ [ 1 19  3  1  1  2  5 20  8 14]
+ [ 0  9 14  8  3  0 20  0 20  9]
+ [ 0 12  5 20  0  0  1  0  0 23]
+ [ 0  7 20  0  0  0 12  0  0 15]
+ [ 0 14 14  0  0  0 19  0  0 12]
+ [ 0  5  5  0  0  0 14  0  0 12]
+ [ 0  0 19  0  0  0  1  0  0 15]
+ [ 0  0  0  0  0  0 18  0  0  6]
+ [ 0  0  0  0  0  0 20  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14  8  5 20 14  5  4 15  5  7] (10,)
+an (reversed: na) -> [ na ] (OK)
+english (reversed: hsilgne) -> [ hsilgne ] (OK)
+sentence (reversed: ecnetnes) -> [ ecnetnes ] (OK)
+that (reversed: taht) -> [ taht ] (OK)
+can (reversed: nac) -> [ nac ] (OK)
+be (reversed: eb) -> [ eb ] (OK)
+translated (reversed: detalsnart) -> [ detalsnart ] (OK)
+to (reversed: ot) -> [ ot ] (OK)
+the (reversed: eht) -> [ eht ] (OK)
+following (reversed: gniwollof) -> [ gniwollof ] (OK)
+decoder_inputs: 
+ [[ 8  5  5  6  4 14  5 18 19  5]
+ [ 3 14 12  9 18 21 20  1 21 12]
+ [14 15  0 22  1 18 21 16 19  0]
+ [ 5  0  0  0 14  2  1  0 19  0]
+ [18  0  0  0  5  0 19  0  5  0]
+ [ 6  0  0  0 18  0  0  0  4  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 8  5  5  6  4 14  5 18 19  5] (10,)
+french (reversed: hcnerf) -> [ hcnerf ] (OK)
+one (reversed: eno) -> [ eno ] (OK)
+le (reversed: el) -> [ el ] (OK)
+vif (reversed: fiv) -> [ fiv ] (OK)
+renard (reversed: draner) -> [ draner ] (OK)
+brun (reversed: nurb) -> [ nurb ] (OK)
+saute (reversed: etuas) -> [ etuas ] (OK)
+par (reversed: rap) -> [ rap ] (OK)
+dessus (reversed: sussed) -> [ sussed ] (OK)
+le (reversed: el) -> [ el ] (OK)
+decoder_inputs: 
+ [[14 24  5 19 14 25  7  8  4 20]
+ [ 5 21 18  9  1 12 14  3 18  5]
+ [ 9  5  5  0  0  5 15 14 15  5]
+ [ 8 19  8  0  0 13 12  5 23  5]
+ [ 3 19  0  0  0  5  0 18  0 12]
+ [ 0  5  0  0  0 18  0  6  0 12]
+ [ 0 18  0  0  0 20  0  0  0 12]
+ [ 0  1  0  0  0 24  0  0  0  5]
+ [ 0 16  0  0  0  5  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 15]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 19]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 15]
+ [ 0  0  0  0  0  0  0  0  0  3]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0  1]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14 24  5 19 14 25  7  8  4 20] (10,)
+chien (reversed: neihc) -> [ neihc ] (OK)
+paresseux (reversed: xuesserap) -> [ xuesserap ] (OK)
+here (reversed: ereh) -> [ ereh ] (OK)
+is (reversed: si) -> [ si ] (OK)
+an (reversed: na) -> [ na ] (OK)
+extremely (reversed: ylemertxe) -> [ ylemertxe ] (OK)
+long (reversed: gnol) -> [ gnol ] (OK)
+french (reversed: hcnerf) -> [ hcnerf ] (OK)
+word (reversed: drow) -> [ drow ] (OK)
+anticonstitutionnellement (reversed: tnemellennoitutitsnocitna) -> [ teeelllenoiitttitsnocitna ] (KO)
+* correct: 39/40 -> 97.5%
+
+* step: 9001 loss: 0.118667
+decoder_inputs: 
+ [[ 5 11 14 24 19 18  5 25  7 19]
+ [ 8  3 23 15 16  5  8 26 15  9]
+ [20  9 15  6 13 22 20  1  4  0]
+ [ 0 21 18  0 21 15  0 12  0  0]
+ [ 0 17  2  0 10  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 5 11 14 24 19 18  5 25  7 19] (10,)
+the (reversed: eht) -> [ eht ] (OK)
+quick (reversed: kciuq) -> [ kciuq ] (OK)
+brown (reversed: nworb) -> [ nworb ] (OK)
+fox (reversed: xof) -> [ xof ] (OK)
+jumps (reversed: spmuj) -> [ spmuj ] (OK)
+over (reversed: revo) -> [ revo ] (OK)
+the (reversed: eht) -> [ eht ] (OK)
+lazy (reversed: yzal) -> [ yzal ] (OK)
+dog (reversed: god) -> [ god ] (OK)
+is (reversed: si) -> [ si ] (OK)
+decoder_inputs: 
+ [[14  8  5 20 14  5  4 15  5  7]
+ [ 1 19  3  1  1  2  5 20  8 14]
+ [ 0  9 14  8  3  0 20  0 20  9]
+ [ 0 12  5 20  0  0  1  0  0 23]
+ [ 0  7 20  0  0  0 12  0  0 15]
+ [ 0 14 14  0  0  0 19  0  0 12]
+ [ 0  5  5  0  0  0 14  0  0 12]
+ [ 0  0 19  0  0  0  1  0  0 15]
+ [ 0  0  0  0  0  0 18  0  0  6]
+ [ 0  0  0  0  0  0 20  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14  8  5 20 14  5  4 15  5  7] (10,)
+an (reversed: na) -> [ na ] (OK)
+english (reversed: hsilgne) -> [ hsilgne ] (OK)
+sentence (reversed: ecnetnes) -> [ ecnetnes ] (OK)
+that (reversed: taht) -> [ taht ] (OK)
+can (reversed: nac) -> [ nac ] (OK)
+be (reversed: eb) -> [ eb ] (OK)
+translated (reversed: detalsnart) -> [ detalsnart ] (OK)
+to (reversed: ot) -> [ ot ] (OK)
+the (reversed: eht) -> [ eht ] (OK)
+following (reversed: gniwollof) -> [ gniwollof ] (OK)
+decoder_inputs: 
+ [[ 8  5  5  6  4 14  5 18 19  5]
+ [ 3 14 12  9 18 21 20  1 21 12]
+ [14 15  0 22  1 18 21 16 19  0]
+ [ 5  0  0  0 14  2  1  0 19  0]
+ [18  0  0  0  5  0 19  0  5  0]
+ [ 6  0  0  0 18  0  0  0  4  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 8  5  5  6  4 14  5 18 19  5] (10,)
+french (reversed: hcnerf) -> [ hcnerf ] (OK)
+one (reversed: eno) -> [ eno ] (OK)
+le (reversed: el) -> [ el ] (OK)
+vif (reversed: fiv) -> [ fiv ] (OK)
+renard (reversed: draner) -> [ draner ] (OK)
+brun (reversed: nurb) -> [ nurb ] (OK)
+saute (reversed: etuas) -> [ etuas ] (OK)
+par (reversed: rap) -> [ rap ] (OK)
+dessus (reversed: sussed) -> [ sussed ] (OK)
+le (reversed: el) -> [ el ] (OK)
+decoder_inputs: 
+ [[14 24  5 19 14 25  7  8  4 14]
+ [ 5 21 18  9  1 12 14  3 18 14]
+ [ 9  5  5  0  0  5 15 14 15 14]
+ [ 8 19  8  0  0 13 12  5 23  5]
+ [ 3 19  0  0  0  5  0 18  0  5]
+ [ 0  5  0  0  0 18  0  6  0  5]
+ [ 0 18  0  0  0 20  0  0  0 12]
+ [ 0  1  0  0  0 24  0  0  0 12]
+ [ 0 16  0  0  0  5  0  0  0 12]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 15]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 19]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 15]
+ [ 0  0  0  0  0  0  0  0  0  3]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0  1]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14 24  5 19 14 25  7  8  4 14] (10,)
+chien (reversed: neihc) -> [ neihc ] (OK)
+paresseux (reversed: xuesserap) -> [ xuesserap ] (OK)
+here (reversed: ereh) -> [ ereh ] (OK)
+is (reversed: si) -> [ si ] (OK)
+an (reversed: na) -> [ na ] (OK)
+extremely (reversed: ylemertxe) -> [ ylemertxe ] (OK)
+long (reversed: gnol) -> [ gnol ] (OK)
+french (reversed: hcnerf) -> [ hcnerf ] (OK)
+word (reversed: drow) -> [ drow ] (OK)
+anticonstitutionnellement (reversed: tnemellennoitutitsnocitna) -> [ nnneeelllnnotttitsnocitna ] (KO)
+* correct: 39/40 -> 97.5%
+
+* step: 10001 loss: 0.105237
+decoder_inputs: 
+ [[ 5 11 14 24 19 18  5 25  7 19]
+ [ 8  3 23 15 16  5  8 26 15  9]
+ [20  9 15  6 13 22 20  1  4  0]
+ [ 0 21 18  0 21 15  0 12  0  0]
+ [ 0 17  2  0 10  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 5 11 14 24 19 18  5 25  7 19] (10,)
+the (reversed: eht) -> [ eht ] (OK)
+quick (reversed: kciuq) -> [ kciuq ] (OK)
+brown (reversed: nworb) -> [ nworb ] (OK)
+fox (reversed: xof) -> [ xof ] (OK)
+jumps (reversed: spmuj) -> [ spmuj ] (OK)
+over (reversed: revo) -> [ revo ] (OK)
+the (reversed: eht) -> [ eht ] (OK)
+lazy (reversed: yzal) -> [ yzal ] (OK)
+dog (reversed: god) -> [ god ] (OK)
+is (reversed: si) -> [ si ] (OK)
+decoder_inputs: 
+ [[14  8  5 20 14  5  4 15  5  7]
+ [ 1 19  3  1  1  2  5 20  8 14]
+ [ 0  9 14  8  3  0 20  0 20  9]
+ [ 0 12  5 20  0  0  1  0  0 23]
+ [ 0  7 20  0  0  0 12  0  0 15]
+ [ 0 14 14  0  0  0 19  0  0 12]
+ [ 0  5  5  0  0  0 14  0  0 12]
+ [ 0  0 19  0  0  0  1  0  0 15]
+ [ 0  0  0  0  0  0 18  0  0  6]
+ [ 0  0  0  0  0  0 20  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14  8  5 20 14  5  4 15  5  7] (10,)
+an (reversed: na) -> [ na ] (OK)
+english (reversed: hsilgne) -> [ hsilgne ] (OK)
+sentence (reversed: ecnetnes) -> [ ecnetnes ] (OK)
+that (reversed: taht) -> [ taht ] (OK)
+can (reversed: nac) -> [ nac ] (OK)
+be (reversed: eb) -> [ eb ] (OK)
+translated (reversed: detalsnart) -> [ detalsnart ] (OK)
+to (reversed: ot) -> [ ot ] (OK)
+the (reversed: eht) -> [ eht ] (OK)
+following (reversed: gniwollof) -> [ gniwollof ] (OK)
+decoder_inputs: 
+ [[ 8  5  5  6  4 14  5 18 19  5]
+ [ 3 14 12  9 18 21 20  1 21 12]
+ [14 15  0 22  1 18 21 16 19  0]
+ [ 5  0  0  0 14  2  1  0 19  0]
+ [18  0  0  0  5  0 19  0  5  0]
+ [ 6  0  0  0 18  0  0  0  4  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 8  5  5  6  4 14  5 18 19  5] (10,)
+french (reversed: hcnerf) -> [ hcnerf ] (OK)
+one (reversed: eno) -> [ eno ] (OK)
+le (reversed: el) -> [ el ] (OK)
+vif (reversed: fiv) -> [ fiv ] (OK)
+renard (reversed: draner) -> [ draner ] (OK)
+brun (reversed: nurb) -> [ nurb ] (OK)
+saute (reversed: etuas) -> [ etuas ] (OK)
+par (reversed: rap) -> [ rap ] (OK)
+dessus (reversed: sussed) -> [ sussed ] (OK)
+le (reversed: el) -> [ el ] (OK)
+decoder_inputs: 
+ [[14 24  5 19 14 25  7  8  4  5]
+ [ 5 21 18  9  1 12 14  3 18  5]
+ [ 9  5  5  0  0  5 15 14 15 14]
+ [ 8 19  8  0  0 13 12  5 23 14]
+ [ 3 19  0  0  0  5  0 18  0 20]
+ [ 0  5  0  0  0 18  0  6  0 15]
+ [ 0 18  0  0  0 20  0  0  0 15]
+ [ 0  1  0  0  0 24  0  0  0  5]
+ [ 0 16  0  0  0  5  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 15]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 21]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 19]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 15]
+ [ 0  0  0  0  0  0  0  0  0  3]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0  1]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14 24  5 19 14 25  7  8  4  5] (10,)
+chien (reversed: neihc) -> [ neihc ] (OK)
+paresseux (reversed: xuesserap) -> [ xuesserap ] (OK)
+here (reversed: ereh) -> [ ereh ] (OK)
+is (reversed: si) -> [ si ] (OK)
+an (reversed: na) -> [ na ] (OK)
+extremely (reversed: ylemertxe) -> [ ylemertxe ] (OK)
+long (reversed: gnol) -> [ gnol ] (OK)
+french (reversed: hcnerf) -> [ hcnerf ] (OK)
+word (reversed: drow) -> [ drow ] (OK)
+anticonstitutionnellement (reversed: tnemellennoitutitsnocitna) -> [ eenntooennoitutitsnocitna ] (KO)
+* correct: 39/40 -> 97.5%
+
+* step: 11001 loss: 0.0616889
+decoder_inputs: 
+ [[ 5 11 14 24 19 18  5 25  7 19]
+ [ 8  3 23 15 16  5  8 26 15  9]
+ [20  9 15  6 13 22 20  1  4  0]
+ [ 0 21 18  0 21 15  0 12  0  0]
+ [ 0 17  2  0 10  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 5 11 14 24 19 18  5 25  7 19] (10,)
+the (reversed: eht) -> [ eht ] (OK)
+quick (reversed: kciuq) -> [ kciuq ] (OK)
+brown (reversed: nworb) -> [ nworb ] (OK)
+fox (reversed: xof) -> [ xof ] (OK)
+jumps (reversed: spmuj) -> [ spmuj ] (OK)
+over (reversed: revo) -> [ revo ] (OK)
+the (reversed: eht) -> [ eht ] (OK)
+lazy (reversed: yzal) -> [ yzal ] (OK)
+dog (reversed: god) -> [ god ] (OK)
+is (reversed: si) -> [ si ] (OK)
+decoder_inputs: 
+ [[14  8  5 20 14  5  4 15  5  7]
+ [ 1 19  3  1  1  2  5 20  8 14]
+ [ 0  9 14  8  3  0 20  0 20  9]
+ [ 0 12  5 20  0  0  1  0  0 23]
+ [ 0  7 20  0  0  0 12  0  0 15]
+ [ 0 14 14  0  0  0 19  0  0 12]
+ [ 0  5  5  0  0  0 14  0  0 12]
+ [ 0  0 19  0  0  0  1  0  0 15]
+ [ 0  0  0  0  0  0 18  0  0  6]
+ [ 0  0  0  0  0  0 20  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14  8  5 20 14  5  4 15  5  7] (10,)
+an (reversed: na) -> [ na ] (OK)
+english (reversed: hsilgne) -> [ hsilgne ] (OK)
+sentence (reversed: ecnetnes) -> [ ecnetnes ] (OK)
+that (reversed: taht) -> [ taht ] (OK)
+can (reversed: nac) -> [ nac ] (OK)
+be (reversed: eb) -> [ eb ] (OK)
+translated (reversed: detalsnart) -> [ detalsnart ] (OK)
+to (reversed: ot) -> [ ot ] (OK)
+the (reversed: eht) -> [ eht ] (OK)
+following (reversed: gniwollof) -> [ gniwollof ] (OK)
+decoder_inputs: 
+ [[ 8  5  5  6  4 14  5 18 19  5]
+ [ 3 14 12  9 18 21 20  1 21 12]
+ [14 15  0 22  1 18 21 16 19  0]
+ [ 5  0  0  0 14  2  1  0 19  0]
+ [18  0  0  0  5  0 19  0  5  0]
+ [ 6  0  0  0 18  0  0  0  4  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 8  5  5  6  4 14  5 18 19  5] (10,)
+french (reversed: hcnerf) -> [ hcnerf ] (OK)
+one (reversed: eno) -> [ eno ] (OK)
+le (reversed: el) -> [ el ] (OK)
+vif (reversed: fiv) -> [ fiv ] (OK)
+renard (reversed: draner) -> [ draner ] (OK)
+brun (reversed: nurb) -> [ nurb ] (OK)
+saute (reversed: etuas) -> [ etuas ] (OK)
+par (reversed: rap) -> [ rap ] (OK)
+dessus (reversed: sussed) -> [ sussed ] (OK)
+le (reversed: el) -> [ el ] (OK)
+decoder_inputs: 
+ [[14 24  5 19 14 25  7  8  4 20]
+ [ 5 21 18  9  1 12 14  3 18 14]
+ [ 9  5  5  0  0  5 15 14 15 14]
+ [ 8 19  8  0  0 13 12  5 23 14]
+ [ 3 19  0  0  0  5  0 18  0 14]
+ [ 0  5  0  0  0 18  0  6  0  5]
+ [ 0 18  0  0  0 20  0  0  0  5]
+ [ 0  1  0  0  0 24  0  0  0 12]
+ [ 0 16  0  0  0  5  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 15]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 21]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 19]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 15]
+ [ 0  0  0  0  0  0  0  0  0  3]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0  1]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14 24  5 19 14 25  7  8  4 20] (10,)
+chien (reversed: neihc) -> [ neihc ] (OK)
+paresseux (reversed: xuesserap) -> [ xuesserap ] (OK)
+here (reversed: ereh) -> [ ereh ] (OK)
+is (reversed: si) -> [ si ] (OK)
+an (reversed: na) -> [ na ] (OK)
+extremely (reversed: ylemertxe) -> [ ylemertxe ] (OK)
+long (reversed: gnol) -> [ gnol ] (OK)
+french (reversed: hcnerf) -> [ hcnerf ] (OK)
+word (reversed: drow) -> [ drow ] (OK)
+anticonstitutionnellement (reversed: tnemellennoitutitsnocitna) -> [ tnnnneelnnoitutitsnocitna ] (KO)
+* correct: 39/40 -> 97.5%
+
+* step: 12001 loss: 0.15225
+decoder_inputs: 
+ [[ 5 11 14 24 19 18  5 25  7 19]
+ [ 8  3 23 15 16  5  8 26 15  9]
+ [20  9 15  6 13 22 20  1  4  0]
+ [ 0 21 18  0 21 15  0 12  0  0]
+ [ 0 17  2  0 10  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 5 11 14 24 19 18  5 25  7 19] (10,)
+the (reversed: eht) -> [ eht ] (OK)
+quick (reversed: kciuq) -> [ kciuq ] (OK)
+brown (reversed: nworb) -> [ nworb ] (OK)
+fox (reversed: xof) -> [ xof ] (OK)
+jumps (reversed: spmuj) -> [ spmuj ] (OK)
+over (reversed: revo) -> [ revo ] (OK)
+the (reversed: eht) -> [ eht ] (OK)
+lazy (reversed: yzal) -> [ yzal ] (OK)
+dog (reversed: god) -> [ god ] (OK)
+is (reversed: si) -> [ si ] (OK)
+decoder_inputs: 
+ [[14  8  5 20 14  5  4 15  5  7]
+ [ 1 19  3  1  1  2  5 20  8 14]
+ [ 0  9 14  8  3  0 20  0 20  9]
+ [ 0 12  5 20  0  0  1  0  0 23]
+ [ 0  7 20  0  0  0 12  0  0 15]
+ [ 0 14 14  0  0  0 19  0  0 12]
+ [ 0  5  5  0  0  0 14  0  0 12]
+ [ 0  0 19  0  0  0  1  0  0 15]
+ [ 0  0  0  0  0  0 18  0  0  6]
+ [ 0  0  0  0  0  0 20  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14  8  5 20 14  5  4 15  5  7] (10,)
+an (reversed: na) -> [ na ] (OK)
+english (reversed: hsilgne) -> [ hsilgne ] (OK)
+sentence (reversed: ecnetnes) -> [ ecnetnes ] (OK)
+that (reversed: taht) -> [ taht ] (OK)
+can (reversed: nac) -> [ nac ] (OK)
+be (reversed: eb) -> [ eb ] (OK)
+translated (reversed: detalsnart) -> [ detalsnart ] (OK)
+to (reversed: ot) -> [ ot ] (OK)
+the (reversed: eht) -> [ eht ] (OK)
+following (reversed: gniwollof) -> [ gniwollof ] (OK)
+decoder_inputs: 
+ [[ 8  5  5  6  4 14  5 18 19  5]
+ [ 3 14 12  9 18 21 20  1 21 12]
+ [14 15  0 22  1 18 21 16 19  0]
+ [ 5  0  0  0 14  2  1  0 19  0]
+ [18  0  0  0  5  0 19  0  5  0]
+ [ 6  0  0  0 18  0  0  0  4  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 8  5  5  6  4 14  5 18 19  5] (10,)
+french (reversed: hcnerf) -> [ hcnerf ] (OK)
+one (reversed: eno) -> [ eno ] (OK)
+le (reversed: el) -> [ el ] (OK)
+vif (reversed: fiv) -> [ fiv ] (OK)
+renard (reversed: draner) -> [ draner ] (OK)
+brun (reversed: nurb) -> [ nurb ] (OK)
+saute (reversed: etuas) -> [ etuas ] (OK)
+par (reversed: rap) -> [ rap ] (OK)
+dessus (reversed: sussed) -> [ sussed ] (OK)
+le (reversed: el) -> [ el ] (OK)
+decoder_inputs: 
+ [[14 24  5 19 14 25  7  8  4 20]
+ [ 5 21 18  9  1 12 14  3 18  5]
+ [ 9  5  5  0  0  5 15 14 15 12]
+ [ 8 19  8  0  0 13 12  5 23 12]
+ [ 3 19  0  0  0  5  0 18  0 12]
+ [ 0  5  0  0  0 18  0  6  0  5]
+ [ 0 18  0  0  0 20  0  0  0  5]
+ [ 0  1  0  0  0 24  0  0  0 14]
+ [ 0 16  0  0  0  5  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 15]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 21]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 19]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 15]
+ [ 0  0  0  0  0  0  0  0  0  3]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0  1]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14 24  5 19 14 25  7  8  4 20] (10,)
+chien (reversed: neihc) -> [ neihc ] (OK)
+paresseux (reversed: xuesserap) -> [ xuesserap ] (OK)
+here (reversed: ereh) -> [ ereh ] (OK)
+is (reversed: si) -> [ si ] (OK)
+an (reversed: na) -> [ na ] (OK)
+extremely (reversed: ylemertxe) -> [ ylemertxe ] (OK)
+long (reversed: gnol) -> [ gnol ] (OK)
+french (reversed: hcnerf) -> [ hcnerf ] (OK)
+word (reversed: drow) -> [ drow ] (OK)
+anticonstitutionnellement (reversed: tnemellennoitutitsnocitna) -> [ tellleennnoitutitsnocitna ] (KO)
+* correct: 39/40 -> 97.5%
+
+* step: 13001 loss: 0.00269461
+decoder_inputs: 
+ [[ 5 11 14 24 19 18  5 25  7 19]
+ [ 8  3 23 15 16  5  8 26 15  9]
+ [20  9 15  6 13 22 20  1  4  0]
+ [ 0 21 18  0 21 15  0 12  0  0]
+ [ 0 17  2  0 10  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 5 11 14 24 19 18  5 25  7 19] (10,)
+the (reversed: eht) -> [ eht ] (OK)
+quick (reversed: kciuq) -> [ kciuq ] (OK)
+brown (reversed: nworb) -> [ nworb ] (OK)
+fox (reversed: xof) -> [ xof ] (OK)
+jumps (reversed: spmuj) -> [ spmuj ] (OK)
+over (reversed: revo) -> [ revo ] (OK)
+the (reversed: eht) -> [ eht ] (OK)
+lazy (reversed: yzal) -> [ yzal ] (OK)
+dog (reversed: god) -> [ god ] (OK)
+is (reversed: si) -> [ si ] (OK)
+decoder_inputs: 
+ [[14  8  5 20 14  5  4 15  5  7]
+ [ 1 19  3  1  1  2  5 20  8 14]
+ [ 0  9 14  8  3  0 20  0 20  9]
+ [ 0 12  5 20  0  0  1  0  0 23]
+ [ 0  7 20  0  0  0 12  0  0 15]
+ [ 0 14 14  0  0  0 19  0  0 12]
+ [ 0  5  5  0  0  0 14  0  0 12]
+ [ 0  0 19  0  0  0  1  0  0 15]
+ [ 0  0  0  0  0  0 18  0  0  6]
+ [ 0  0  0  0  0  0 20  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14  8  5 20 14  5  4 15  5  7] (10,)
+an (reversed: na) -> [ na ] (OK)
+english (reversed: hsilgne) -> [ hsilgne ] (OK)
+sentence (reversed: ecnetnes) -> [ ecnetnes ] (OK)
+that (reversed: taht) -> [ taht ] (OK)
+can (reversed: nac) -> [ nac ] (OK)
+be (reversed: eb) -> [ eb ] (OK)
+translated (reversed: detalsnart) -> [ detalsnart ] (OK)
+to (reversed: ot) -> [ ot ] (OK)
+the (reversed: eht) -> [ eht ] (OK)
+following (reversed: gniwollof) -> [ gniwollof ] (OK)
+decoder_inputs: 
+ [[ 8  5  5  6  4 14  5 18 19  5]
+ [ 3 14 12  9 18 21 20  1 21 12]
+ [14 15  0 22  1 18 21 16 19  0]
+ [ 5  0  0  0 14  2  1  0 19  0]
+ [18  0  0  0  5  0 19  0  5  0]
+ [ 6  0  0  0 18  0  0  0  4  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 8  5  5  6  4 14  5 18 19  5] (10,)
+french (reversed: hcnerf) -> [ hcnerf ] (OK)
+one (reversed: eno) -> [ eno ] (OK)
+le (reversed: el) -> [ el ] (OK)
+vif (reversed: fiv) -> [ fiv ] (OK)
+renard (reversed: draner) -> [ draner ] (OK)
+brun (reversed: nurb) -> [ nurb ] (OK)
+saute (reversed: etuas) -> [ etuas ] (OK)
+par (reversed: rap) -> [ rap ] (OK)
+dessus (reversed: sussed) -> [ sussed ] (OK)
+le (reversed: el) -> [ el ] (OK)
+decoder_inputs: 
+ [[14 24  5 19 14 25  7  8  4 20]
+ [ 5 21 18  9  1 12 14  3 18  5]
+ [ 9  5  5  0  0  5 15 14 15  5]
+ [ 8 19  8  0  0 13 12  5 23  5]
+ [ 3 19  0  0  0  5  0 18  0  5]
+ [ 0  5  0  0  0 18  0  6  0 12]
+ [ 0 18  0  0  0 20  0  0  0 12]
+ [ 0  1  0  0  0 24  0  0  0  5]
+ [ 0 16  0  0  0  5  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 15]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 21]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 19]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 15]
+ [ 0  0  0  0  0  0  0  0  0  3]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0  1]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14 24  5 19 14 25  7  8  4 20] (10,)
+chien (reversed: neihc) -> [ neihc ] (OK)
+paresseux (reversed: xuesserap) -> [ xuesserap ] (OK)
+here (reversed: ereh) -> [ ereh ] (OK)
+is (reversed: si) -> [ si ] (OK)
+an (reversed: na) -> [ na ] (OK)
+extremely (reversed: ylemertxe) -> [ ylemertxe ] (OK)
+long (reversed: gnol) -> [ gnol ] (OK)
+french (reversed: hcnerf) -> [ hcnerf ] (OK)
+word (reversed: drow) -> [ drow ] (OK)
+anticonstitutionnellement (reversed: tnemellennoitutitsnocitna) -> [ teeeellennoitutitsnocitna ] (KO)
+* correct: 39/40 -> 97.5%
+
+* step: 14001 loss: 0.00485609
+decoder_inputs: 
+ [[ 5 11 14 24 19 18  5 25  7 19]
+ [ 8  3 23 15 16  5  8 26 15  9]
+ [20  9 15  6 13 22 20  1  4  0]
+ [ 0 21 18  0 21 15  0 12  0  0]
+ [ 0 17  2  0 10  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 5 11 14 24 19 18  5 25  7 19] (10,)
+the (reversed: eht) -> [ eht ] (OK)
+quick (reversed: kciuq) -> [ kciuq ] (OK)
+brown (reversed: nworb) -> [ nworb ] (OK)
+fox (reversed: xof) -> [ xof ] (OK)
+jumps (reversed: spmuj) -> [ spmuj ] (OK)
+over (reversed: revo) -> [ revo ] (OK)
+the (reversed: eht) -> [ eht ] (OK)
+lazy (reversed: yzal) -> [ yzal ] (OK)
+dog (reversed: god) -> [ god ] (OK)
+is (reversed: si) -> [ si ] (OK)
+decoder_inputs: 
+ [[14  8  5 20 14  5  4 15  5  7]
+ [ 1 19  3  1  1  2  5 20  8 14]
+ [ 0  9 14  8  3  0 20  0 20  9]
+ [ 0 12  5 20  0  0  1  0  0 23]
+ [ 0  7 20  0  0  0 12  0  0 15]
+ [ 0 14 14  0  0  0 19  0  0 12]
+ [ 0  5  5  0  0  0 14  0  0 12]
+ [ 0  0 19  0  0  0  1  0  0 15]
+ [ 0  0  0  0  0  0 18  0  0  6]
+ [ 0  0  0  0  0  0 20  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14  8  5 20 14  5  4 15  5  7] (10,)
+an (reversed: na) -> [ na ] (OK)
+english (reversed: hsilgne) -> [ hsilgne ] (OK)
+sentence (reversed: ecnetnes) -> [ ecnetnes ] (OK)
+that (reversed: taht) -> [ taht ] (OK)
+can (reversed: nac) -> [ nac ] (OK)
+be (reversed: eb) -> [ eb ] (OK)
+translated (reversed: detalsnart) -> [ detalsnart ] (OK)
+to (reversed: ot) -> [ ot ] (OK)
+the (reversed: eht) -> [ eht ] (OK)
+following (reversed: gniwollof) -> [ gniwollof ] (OK)
+decoder_inputs: 
+ [[ 8  5  5  6  4 14  5 18 19  5]
+ [ 3 14 12  9 18 21 20  1 21 12]
+ [14 15  0 22  1 18 21 16 19  0]
+ [ 5  0  0  0 14  2  1  0 19  0]
+ [18  0  0  0  5  0 19  0  5  0]
+ [ 6  0  0  0 18  0  0  0  4  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 8  5  5  6  4 14  5 18 19  5] (10,)
+french (reversed: hcnerf) -> [ hcnerf ] (OK)
+one (reversed: eno) -> [ eno ] (OK)
+le (reversed: el) -> [ el ] (OK)
+vif (reversed: fiv) -> [ fiv ] (OK)
+renard (reversed: draner) -> [ draner ] (OK)
+brun (reversed: nurb) -> [ nurb ] (OK)
+saute (reversed: etuas) -> [ etuas ] (OK)
+par (reversed: rap) -> [ rap ] (OK)
+dessus (reversed: sussed) -> [ sussed ] (OK)
+le (reversed: el) -> [ el ] (OK)
+decoder_inputs: 
+ [[14 24  5 19 14 25  7  8  4 20]
+ [ 5 21 18  9  1 12 14  3 18 14]
+ [ 9  5  5  0  0  5 15 14 15  5]
+ [ 8 19  8  0  0 13 12  5 23 13]
+ [ 3 19  0  0  0  5  0 18  0  5]
+ [ 0  5  0  0  0 18  0  6  0 12]
+ [ 0 18  0  0  0 20  0  0  0 12]
+ [ 0  1  0  0  0 24  0  0  0  5]
+ [ 0 16  0  0  0  5  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 15]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 21]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 19]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 15]
+ [ 0  0  0  0  0  0  0  0  0  3]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0  1]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14 24  5 19 14 25  7  8  4 20] (10,)
+chien (reversed: neihc) -> [ neihc ] (OK)
+paresseux (reversed: xuesserap) -> [ xuesserap ] (OK)
+here (reversed: ereh) -> [ ereh ] (OK)
+is (reversed: si) -> [ si ] (OK)
+an (reversed: na) -> [ na ] (OK)
+extremely (reversed: ylemertxe) -> [ ylemertxe ] (OK)
+long (reversed: gnol) -> [ gnol ] (OK)
+french (reversed: hcnerf) -> [ hcnerf ] (OK)
+word (reversed: drow) -> [ drow ] (OK)
+anticonstitutionnellement (reversed: tnemellennoitutitsnocitna) -> [ tnemellennoitutitsnocitna ] (OK)
+* correct: 40/40 -> 100.0%
+
+*** evaluation! loss: 0.0013469
+decoder_inputs: 
+ [[ 5 11 14 24 19 18  5 25  7 19]
+ [ 8  3 23 15 16  5  8 26 15  9]
+ [20  9 15  6 13 22 20  1  4  0]
+ [ 0 21 18  0 21 15  0 12  0  0]
+ [ 0 17  2  0 10  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 5 11 14 24 19 18  5 25  7 19] (10,)
+the (reversed: eht) -> [ eht ] (OK)
+quick (reversed: kciuq) -> [ kciuq ] (OK)
+brown (reversed: nworb) -> [ nworb ] (OK)
+fox (reversed: xof) -> [ xof ] (OK)
+jumps (reversed: spmuj) -> [ spmuj ] (OK)
+over (reversed: revo) -> [ revo ] (OK)
+the (reversed: eht) -> [ eht ] (OK)
+lazy (reversed: yzal) -> [ yzal ] (OK)
+dog (reversed: god) -> [ god ] (OK)
+is (reversed: si) -> [ si ] (OK)
+decoder_inputs: 
+ [[14  8  5 20 14  5  4 15  5  7]
+ [ 1 19  3  1  1  2  5 20  8 14]
+ [ 0  9 14  8  3  0 20  0 20  9]
+ [ 0 12  5 20  0  0  1  0  0 23]
+ [ 0  7 20  0  0  0 12  0  0 15]
+ [ 0 14 14  0  0  0 19  0  0 12]
+ [ 0  5  5  0  0  0 14  0  0 12]
+ [ 0  0 19  0  0  0  1  0  0 15]
+ [ 0  0  0  0  0  0 18  0  0  6]
+ [ 0  0  0  0  0  0 20  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14  8  5 20 14  5  4 15  5  7] (10,)
+an (reversed: na) -> [ na ] (OK)
+english (reversed: hsilgne) -> [ hsilgne ] (OK)
+sentence (reversed: ecnetnes) -> [ ecnetnes ] (OK)
+that (reversed: taht) -> [ taht ] (OK)
+can (reversed: nac) -> [ nac ] (OK)
+be (reversed: eb) -> [ eb ] (OK)
+translated (reversed: detalsnart) -> [ detalsnart ] (OK)
+to (reversed: ot) -> [ ot ] (OK)
+the (reversed: eht) -> [ eht ] (OK)
+following (reversed: gniwollof) -> [ gniwollof ] (OK)
+decoder_inputs: 
+ [[ 8  5  5  6  4 14  5 18 19  5]
+ [ 3 14 12  9 18 21 20  1 21 12]
+ [14 15  0 22  1 18 21 16 19  0]
+ [ 5  0  0  0 14  2  1  0 19  0]
+ [18  0  0  0  5  0 19  0  5  0]
+ [ 6  0  0  0 18  0  0  0  4  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [ 8  5  5  6  4 14  5 18 19  5] (10,)
+french (reversed: hcnerf) -> [ hcnerf ] (OK)
+one (reversed: eno) -> [ eno ] (OK)
+le (reversed: el) -> [ el ] (OK)
+vif (reversed: fiv) -> [ fiv ] (OK)
+renard (reversed: draner) -> [ draner ] (OK)
+brun (reversed: nurb) -> [ nurb ] (OK)
+saute (reversed: etuas) -> [ etuas ] (OK)
+par (reversed: rap) -> [ rap ] (OK)
+dessus (reversed: sussed) -> [ sussed ] (OK)
+le (reversed: el) -> [ el ] (OK)
+decoder_inputs: 
+ [[14 24  5 19 14 25  7  8  4 20]
+ [ 5 21 18  9  1 12 14  3 18 14]
+ [ 9  5  5  0  0  5 15 14 15  5]
+ [ 8 19  8  0  0 13 12  5 23 13]
+ [ 3 19  0  0  0  5  0 18  0  5]
+ [ 0  5  0  0  0 18  0  6  0 12]
+ [ 0 18  0  0  0 20  0  0  0 12]
+ [ 0  1  0  0  0 24  0  0  0  5]
+ [ 0 16  0  0  0  5  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 15]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 21]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 19]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0 15]
+ [ 0  0  0  0  0  0  0  0  0  3]
+ [ 0  0  0  0  0  0  0  0  0  9]
+ [ 0  0  0  0  0  0  0  0  0 20]
+ [ 0  0  0  0  0  0  0  0  0 14]
+ [ 0  0  0  0  0  0  0  0  0  1]
+ [ 0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0]] (27, 10)
+P es  [14 24  5 19 14 25  7  8  4 20] (10,)
+chien (reversed: neihc) -> [ neihc ] (OK)
+paresseux (reversed: xuesserap) -> [ xuesserap ] (OK)
+here (reversed: ereh) -> [ ereh ] (OK)
+is (reversed: si) -> [ si ] (OK)
+an (reversed: na) -> [ na ] (OK)
+extremely (reversed: ylemertxe) -> [ ylemertxe ] (OK)
+long (reversed: gnol) -> [ gnol ] (OK)
+french (reversed: hcnerf) -> [ hcnerf ] (OK)
+word (reversed: drow) -> [ drow ] (OK)
+anticonstitutionnellement (reversed: tnemellennoitutitsnocitna) -> [ tnemellennoitutitsnocitna ] (OK)
+* correct: 40/40 -> 100.0%
+
+Process 29079 detected
